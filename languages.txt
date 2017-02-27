@@ -41,7 +41,7 @@ brainfuck
 brightscript
 bro
 c
-c%23
+c#
 c++
 c-objdump
 c2hs-haskell
@@ -109,7 +109,7 @@ emacs-lisp
 emberscript
 eq
 erlang
-f%23
+f#
 factor
 fancy
 fantom
