@@ -22,9 +22,20 @@ Why is a repo created for the list ?
 So that if someone else needs it now or in future, they need not go through
 creating a list of their own.
 
+Details
+~~~~~~~~
+* `languages.txt`_ contains the language listed by `trending`_ page.
+* `others.txt`_ contains a list of mixed things like colloquial usage of
+  language names like ``js`` for ``javascript``, ``node`` or ``nodejs`` which
+  isn't a separate language but is used to represent a separate class of
+  projects etc.
+
 .. _github.com: https://github.com
 .. _trending: https://github.com/trending
 .. _Dasonk: https://github.com/Dasonk
 .. _languages: https://github.com/github/linguist/blob/master/lib/linguist/languages.yml
 .. |Licence| image:: https://img.shields.io/badge/license-MIT-blue.svg
    :target: https://raw.githubusercontent.com/csurfer/gitlang/master/LICENSE
+
+.. _languages.txt: https://github.com/csurfer/gitlang/blob/master/languages.txt
+.. _others.txt: https://github.com/csurfer/gitlang/blob/master/others.txt
